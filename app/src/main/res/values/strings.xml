@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Xml</string>
+    <string name="User">Username:</string>
+    <string name="hint">Please enter the name</string>
+    <string name="button">Submit</string>
+    <string name="Pws">Password</string>
+    <string name="hint1">Please enter the password</string>
+    <string name="conf">Conform password</string>
+    <string name="hint1">Reenter to conform the password</string>
+</resources>
